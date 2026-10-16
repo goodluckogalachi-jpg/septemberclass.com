@@ -1,0 +1,66 @@
+
+
+.container h1{
+ text-align: center;  
+ text-decoration: underline; 
+ text-transform: uppercase;
+ text-shadow: 10px  3px gray;
+
+ font-family: 'Times New Roman', Times, serif;
+ font-size: 30px;
+ font-weight: lighter;
+ font-style: italic;
+
+}
+
+
+/* box model */
+
+/* margin */
+/* padding */
+/* border */
+
+
+/* MARGIN */
+/* margin right */
+/* margin left */
+/* margin botton */
+/* margin top */
+
+.container{
+  background-color: green ;  
+  color: white;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px ;
+  margin-bottom: 50px;
+
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+
+  border-top: 10px solid yellow;
+  border-bottom: 10px dashed yellow;
+  border-left: 10px dotted yellow;
+  border-right: 10px groove yellow;
+
+  
+/* height */
+/* width */
+/* min-height */
+/* min-width */
+/* box-sizing */
+
+
+.box{
+  background-color: blue;
+  height: 50px;
+  width: 100px;
+
+}
+
+
+
+
+
